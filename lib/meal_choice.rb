@@ -20,7 +20,8 @@ def meal_choice(protein = "tofu", veg1 = "broccoli", veg2 = "macaroni")
    puts "A plate of #{protein} with #{veg1} and #{veg2}."
  end
  
- meal_choice("tofu","broccoli","macaroni")
+ meal_choice("broccoli","macaroni")
+ 
  
  
  
